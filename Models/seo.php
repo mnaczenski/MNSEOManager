@@ -1,6 +1,6 @@
 <?php
 
-namespace Shopware\CustomModels\seo;
+namespace MNSEOManager\Models;
 
 use Shopware\Components\Model\ModelEntity;
 use Doctrine\Common\Collections\ArrayCollection;
